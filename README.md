@@ -27,6 +27,7 @@ If you’re interested in my work or want to reach out, take a look at the botto
 <img src="Badge-Collection/AWSEBadge.png" alt="Badge1" height="150" />
 <img src="Badge-Collection/certified-in-cybersecurity-Badge.png" alt="Badge2" height="150" />
 <img src="Badge-Collection/aws-certified-cloud-practitioner.png" alt="AWS CCP Badge" height="150" />
+<img src="Badge-Collection/aws-certified-ai-practitioner.png" alt="AWS CAP Badge" height="150" />
 <img src="Badge-Collection/aws-educate-introduction-to-generative-ai-training-.png" alt="AWS Badge" height="150" />
 </p>
 
