@@ -58,7 +58,7 @@ If you’re interested in my work or want to reach out, take a look at the botto
 <hr>
 
 <p align="center">
-<a href="https://www.credly.com/users/syed-hussain.55c6c88b" target="_blank">
+<a href="https://www.credly.com/users/syed-ammar-hussain.913" target="_blank">
 <img src="https://img.shields.io/badge/Credly-0052FF?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" height="40" />
 </a>
 &nbsp;&nbsp;
